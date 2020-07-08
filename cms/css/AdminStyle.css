@@ -1,0 +1,49 @@
+body{
+  background-color: #2f4050;
+}
+.col-sm-10{
+  background-color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  /* padding-bottom: 20px; */
+}
+.col-sm-2{
+
+  margin-top: 20px;
+}
+#side_menu a{
+  color: #9fb1c2;
+}
+
+#side_menu .active a{
+  color: #ffffff;
+  font-weight: bold;
+  display: block;
+}
+
+#side_menu a:hover{
+  color: #ffffff;
+  background-color: #1ab364;
+  font-weight: bold;
+  display: block;
+}
+#footer{
+  padding: 0.5px;
+  border-top: 1px solid black;
+  color: #eeeeee;
+  background-color: #211f22;
+  text-align: center;
+  margin-top: 10px;
+}
+.Line{
+  margin-top: -20px;
+}
+.navbar-nav li{
+  /* font-weight: bold; */
+  font-size: 1.2em;
+}
+.FieldInfo{
+  color: rgb(251, 174, 44);
+  font-family: Bitter,serif;"Times New Romen";
+  font-size: 1.2em;
+}
